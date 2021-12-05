@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>0.0.0.1</version> 
+        <version>1.0.0.1</version> 
         <url>https://raw.githubusercontent.com/congoobot/app/Debug/CongooHub.exe</url> 
         <filePath>./CongooHub.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
@@ -11,7 +11,7 @@
         <launchArgs></launchArgs> 
     </update>
     <update> 
-        <version>1.0.0.0</version> 
+        <version>1.0.0.1</version> 
         <url>https://raw.githubusercontent.com/congoobot/app/Debug/SharpUpdate.dll</url> 
         <filePath>./SharpUpdate.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
@@ -19,18 +19,4 @@
        </description> 
         <launchArgs></launchArgs> 
     </update>
-    <add> 
-        <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/congoobot/app/Debug/SharpUpdate.dll</url> 
-        <filePath>./test_add/SharpUpdate_test_add.dll</filePath>
-        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
-        <description>Sharp Added
-        </description> 
-        <launchArgs></launchArgs> 
-    </add>
-    <remove>
-        <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
-        <description>Copies removed.</description> 
-        <launchArgs></launchArgs> 
-    </remove>
 </sharpUpdate>
