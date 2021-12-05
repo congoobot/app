@@ -2,8 +2,8 @@
 <sharpUpdate> 
     <update> 
         <version>3.1.0.1</version> 
-        <url>https://raw.githubusercontent.com/congoobot/app/main/Debug/CongooHub.exe</url> 
-        <filePath>./CongooHub.exe</filePath>
+        <url>https://raw.githubusercontent.com/congoobot/app/main/Debug/TextApp.exe</url> 
+        <filePath>./TestApp.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Program Updated</description> 
         <launchArgs></launchArgs> 
