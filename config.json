@@ -1,0 +1,114 @@
+
+{
+    "owners": ["848503950021099528"] ,
+    "guvenlid": ["","","","","","","","","",""],
+    "bots": ["","","","","","","","","","","","","",""], 
+    "limit": "2",
+    "logkanal": "log kanal",
+ 
+    "bot": {
+        "owner": "WarQety",
+        "prefix": ".",
+        "BotStatus": "",
+        "cooldown": 8,
+        "iltifatsize": 100,
+        "V_Confirmed1":"Kayıt Odası",
+      "guildVanityURL":"https://discord.gg/oyun",
+        "botcommand":"bot komut rol",
+        "yetkilialım":"yetkili ilk rol",
+        "footer":"WarQety 💘 SAIUGUR",
+        "desteklog":"destek - öneri kanalı LOG"
+      
+      },
+      "yetkili": {
+         "responsible":"",
+          "yetkiverlog":"Yetkili LOG",
+        "yetkirol":"yetki ver 1",
+        "yetkirol2":"yetki ver 2",
+        "yetkirol3":"yetki ver 3",
+        "yetkirol4":"yetki ver 3"
+    },
+      "penals": {
+        "ban": {
+            "staff": "ban yetkili",
+            "log": "ban log",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "hapisjannr yetkili",
+            "roles": "hapis rolü",
+            "log": "jail log",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "susturucu",
+            "roles": "susma rolü",
+            "log": "log",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "uyarı",
+            "log": "log"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "Mesaj Log",
+        "voicelog": "Des Log",
+        "taglog": "Tag log"
+    },
+    "roles": {
+        "boosterrole": "Booster Rol",
+        "viprole": "VIP ROLÜ",
+        "designerrole": "Tasarımcı ROL",
+        "musiciansrole": "MÜZİSYEN ROL",
+        "team": "Takım Rolü",
+        "sponsored": "Sponsor Rolü",
+        "katıldıRole":"yoplantı Katıldı rolü"
+    },
+    "channels": {
+        "chat": "chat",
+        "voicechannel": "bot ses",
+        "welcomechannel": "kayıt kanalı",
+        "rules": "kurallar kanalı",
+        "meetingRoom":"toplantın odası"
+    },
+    "parents": {
+        "publicparents": "public kategori"
+    },
+    "registration": {
+        "unregistered": "kayıtsız",
+        "man": ["erkek 1", "erkek 2 yoksa sil"],
+        "woman": ["kadın 1", "ksdın 2 yoksa sil"],
+        "staff": "Kayıt Sorumlusu",
+        "GuilDTag": "TAG",
+        "TagSymbol": "TAG",
+        "autonickname": "İsim | Yaş",
+              "symbol": "|",
+        "suspecios": "ŞÜPJELI ROL",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "ERLEK ROL",
+        "onewoman": "KADIN ROL",
+        "minage": 10, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "Sunucu ID",
+        "GuilDName": "Sunucu İsmi",
+        "GuildOwnerRole": ["Sunucu Yetkili"]
+    },
+    "emojis": {
+        "tada": "🎉",
+        "yes": "☑️",
+        "no": "❌"
+    },
+    "buttons": {
+        "giveaway": "908773946860638269",
+        "activity": "908774049365262397"
+    }
+}
